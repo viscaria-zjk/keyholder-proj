@@ -1,0 +1,8 @@
+D:\hwsm\keyholder-fire-tool\bin\Debug\keyholder-fire-tool.exe
+D:\hwsm\keyholder-fire-tool\bin\Debug\keyholder-fire-tool.pdb
+D:\hwsm\keyholder-fire-tool\obj\Debug\keyholder-fire-tool.csprojResolveAssemblyReference.cache
+D:\hwsm\keyholder-fire-tool\obj\Debug\keyholder_fire_tool.FormMain.resources
+D:\hwsm\keyholder-fire-tool\obj\Debug\keyholder_fire_tool.Properties.Resources.resources
+D:\hwsm\keyholder-fire-tool\obj\Debug\keyholder-fire-tool.csproj.GenerateResource.Cache
+D:\hwsm\keyholder-fire-tool\obj\Debug\keyholder-fire-tool.exe
+D:\hwsm\keyholder-fire-tool\obj\Debug\keyholder-fire-tool.pdb
