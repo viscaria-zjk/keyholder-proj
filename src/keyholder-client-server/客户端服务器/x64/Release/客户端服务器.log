@@ -1,0 +1,23 @@
+﻿生成启动时间为 2020/5/27 17:00:24。
+     1>项目“D:\hwsm\客户端服务器\客户端服务器\客户端服务器.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I"D:\hwsm\客户端服务器\lib" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _WINSOCK_DEPRECATED_NO_WARNINGS /D _CRT_SECURE_NO_WARNINGS /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"x64\Release\client_server.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I"D:\hwsm\客户端服务器\lib" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _WINSOCK_DEPRECATED_NO_WARNINGS /D _CRT_SECURE_NO_WARNINGS /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Release\client_server.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt clientserver.cpp cs_main.cpp
+         clientserver.cpp
+     1>D:\hwsm\客户端服务器\lib\libenc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         cs_main.cpp
+     1>D:\hwsm\客户端服务器\lib\libenc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\hwsm\客户端服务器\x64\Release\client_server.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"D:\hwsm\客户端服务器\lib" libenc.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\hwsm\客户端服务器\x64\Release\client_server.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\hwsm\客户端服务器\x64\Release\client_server.lib" /MACHINE:X64 x64\Release\clientserver.obj
+         x64\Release\stdafx.obj
+         x64\Release\cs_main.obj
+         正在生成代码
+         All 111 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         已完成代码的生成
+         客户端服务器.vcxproj -> D:\hwsm\客户端服务器\x64\Release\client_server.exe
+     1>已完成生成项目“D:\hwsm\客户端服务器\客户端服务器\客户端服务器.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:03.45

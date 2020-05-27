@@ -1,0 +1,13 @@
+LIBRARY libenc.dll
+EXPORTS
+AESDecrypt
+AESEncrypt
+DestroyAESKey
+DestroyData
+DestroyRSAKeys
+DestroyRSAPriKey
+DestroyRSAPubKey
+GenAESKey
+GenRSAKeys
+RSADecrypt
+RSAEncrypt
